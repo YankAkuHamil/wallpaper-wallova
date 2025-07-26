@@ -71,16 +71,16 @@
       "native_ad_style_wallpaper_list": "large",
       "native_ad_style_exit_dialog": "medium",
 
-      "show_banner_ad_home": false,
-      "show_banner_ad_wallpaper_details": false,
-      "show_banner_ad_category_details": false,
-      "show_banner_ad_search": false,
-      "show_interstitial_ad_wallpaper_list": false,
-      "show_interstitial_ad_wallpaper_details": false,
-      "show_native_ad_wallpaper_list": false,
-      "show_native_ad_exit_dialog": false,
-      "show_open_ad_on_app_start": false,
-      "show_open_ad_on_app_resume": false
+      "show_banner_ad_home": ture,
+      "show_banner_ad_wallpaper_details": ture,
+      "show_banner_ad_category_details": ture,
+      "show_banner_ad_search": ture,
+      "show_interstitial_ad_wallpaper_list": ture,
+      "show_interstitial_ad_wallpaper_details": ture,
+      "show_native_ad_wallpaper_list": ture,
+      "show_native_ad_exit_dialog": ture,
+      "show_open_ad_on_app_start": ture,
+      "show_open_ad_on_app_resume": ture
     }
   ],
   "categories": [
